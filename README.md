@@ -1,1 +1,1 @@
-# litecoin-detached-sigs
+# brkcoin-detached-sigs
